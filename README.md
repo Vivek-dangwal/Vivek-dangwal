@@ -118,3 +118,12 @@ viv1dangwal@gmail.com
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vivek-dangwal&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Contribution Activity
+
+[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-dangwal&theme=tokyo-night)](https://github.com/Vivek-dangwal)
