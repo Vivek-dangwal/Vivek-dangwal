@@ -94,11 +94,10 @@ viv1dangwal@gmail.com
 
 ⭐ *Always learning, building, and exploring the power of data and AI.*
 ## 📊 GitHub Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek-dangwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek-dangwal&show_icons=true&rank_icon=github&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-dangwal&layout=compact&langs_count=8&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vivek-dangwal&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=Vivek-dangwal&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-dangwal&layout=compact&theme=tokyonight&langs_count=8)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vivek-dangwal&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Vivek-dangwal&color=blue"/>
