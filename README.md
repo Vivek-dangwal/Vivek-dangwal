@@ -97,3 +97,24 @@ viv1dangwal@gmail.com
 <img src="https://streak-stats.demolab.com/?user=Vivek-dangwal&theme=tokyonight"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vivek-dangwal&color=blue"/>
+## 🛠 Tech Stack & Tools
+
+### Programming & Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### Data Science & Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+</p>
+
+### Cloud & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### Development Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
