@@ -60,7 +60,7 @@ More projects are available in my repositories.
 ## 📚 Certifications
 
 * Google Project Management Professional Certificate
-* Google Advanced Data Analytics Professional Certificate (In Progress)
+* Google Advanced Data Analytics Professional Certificate
 * AWS Cloud Architecture Courses
 * Python for Everybody Specialization – University of Michigan
 * Professional Communication & Soft Skills – IBM / University of Pennsylvania
@@ -120,7 +120,7 @@ viv1dangwal@gmail.com
 </p>
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vivek-dangwal&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vivek-dangwal&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
